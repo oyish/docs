@@ -1,6 +1,5 @@
 ---
 title: 
 tags: 
-category:
-  - a
+category: []
 ---
