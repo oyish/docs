@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "_resources/templates/post_template.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "_resources/templates/post_template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "_resources/templates/post_template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "_resources/templates/post_template.md"
               }
             }
           }
@@ -164,9 +164,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d8fb71ccd31d8516",
+  "active": "beaafcca9abc326d",
   "lastOpenFiles": [
-    "site",
-    "README.md"
+    "README.md",
+    "_resources/templates/post_template.md",
+    "_resources/templates",
+    "_resources",
+    "_templates",
+    "site/_draft",
+    "site/about",
+    "site/post",
+    "site"
   ]
 }
