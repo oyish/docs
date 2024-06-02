@@ -1,4 +1,3 @@
 ---
-title: 
-cssclasses:
+title:
 ---
