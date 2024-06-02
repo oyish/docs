@@ -2,5 +2,4 @@
 title: 
 pic:
   - sa
-  - das
 ---
