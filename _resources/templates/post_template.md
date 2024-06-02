@@ -1,6 +1,5 @@
 ---
 title: 
 tags:
-  - a
   - asd
 ---
