@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "pic": "multitext",
-    "category": "text"
+    "category": "text",
+    "series": "multitext"
   }
 }
