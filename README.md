@@ -5,14 +5,3 @@
 - https://oyish.dev
 
 
-
-
-
-
-
-test
-
-common
-
-
-change now
