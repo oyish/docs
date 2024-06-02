@@ -1,0 +1,6 @@
+{
+  "imageUrl": "protocol://domain.tld/path/to/image.png",
+  "opacity": 0.5,
+  "bluriness": "low",
+  "inputContrast": false
+}

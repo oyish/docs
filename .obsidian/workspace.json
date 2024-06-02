@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "2a822d8fa8dcecef",
+    "type": "split",
+    "children": [
+      {
+        "id": "630eab3d6850d653",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "beaafcca9abc326d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "086092bd987a7b7c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d87b92f0e12b4a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee3cf5bf1628ba10",
+        "type": "tabs",
+        "dimension": 14.166666666666666,
+        "children": [
+          {
+            "id": "5dbc4f9d1a3de0b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de53725e2fd58592",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "88d20fa2622bfbb0",
+        "type": "tabs",
+        "dimension": 85.83333333333333,
+        "children": [
+          {
+            "id": "d8fb71ccd31d8516",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d5aeb37d8d49e075",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1a710c30ab55e0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b43703aed92d8452",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6efe8b490fc71779",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b10769ade3652a3c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3cd71455a6d3a055",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "086092bd987a7b7c",
+  "lastOpenFiles": [
+    "README.md"
+  ]
+}
